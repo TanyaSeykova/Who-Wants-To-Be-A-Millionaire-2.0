@@ -1,0 +1,528 @@
+<?xml version="1.0"?>
+<questionsDatabase>
+    <easyQuestions>
+        <question>
+            <text>In what children's game are participants chased by someone designated \"It\"?</text>
+            <answer correct="yes" audience="86%">Tag</answer>
+            <answer correct="no" audience="8%">Simon Says</answer>
+            <answer correct="no" audience="6%">Charades</answer>
+            <answer correct="no" audience="0%">Hopscotch</answer>
+        </question>
+        <question>
+            <text>On a radio, stations are changed by using what control?</text>
+            <answer correct="no" audience="3%">Volume</answer>
+			<answer correct="yes" audience="95%">Tuning</answer>
+            <answer correct="no" audience="1%">Bass</answer>
+            <answer correct="no" audience="1%">Treble</answer>
+        </question>
+		<question>
+            <text>Which state in the United States is largest by area?</text>
+            <answer correct="yes" audience="55%">Alaska</answer>
+			<answer correct="no" audience="6%">California</answer>
+            <answer correct="no" audience="38%">Texas</answer>
+            <answer correct="no" audience="1%">Hawaii</answer>
+        </question>
+		<question>
+            <text>What is Aurora Borealis commonly known as?</text>
+            <answer correct="no" audience="3%">Fairy Dust</answer>
+			<answer correct="yes" audience="86%">Northern Lights</answer>
+            <answer correct="no" audience="2%">Book of ages</answer>
+            <answer correct="no" audience="9%">a Game of Thrones main character</answer>
+        </question>
+		<question>
+            <text>When did Margaret Thatcher became the first female Prime Minister of Britain?</text>
+            <answer correct="no" audience="5%">1998</answer>
+			<answer correct="no" audience="8%">1989</answer>
+            <answer correct="yes" audience="85%">1979</answer>
+            <answer correct="no" audience="2%">1800</answer>
+        </question>
+		<question>
+            <text>When is the International Workers' Day?</text>
+			<answer correct="yes" audience="92%">1st May</answer>
+            <answer correct="no" audience="1%">12th December</answer>
+			<answer correct="no" audience="5%">15th April</answer>
+            <answer correct="no" audience="2%">1st August</answer>
+        </question>
+		<question>
+            <text>In the U.S., if it's not Daylight Saving Time, it's what?</text>
+			<answer correct="no" audience="1%">Borrowed time</answer>
+            <answer correct="no" audience="2%">Overtime</answer>
+			<answer correct="yes" audience="90%">Standard time</answer>
+            <answer correct="no" audience="7%">Party time</answer>
+        </question>
+		<question>
+            <text>Which part of the body are you most likely to stub?</text>
+			<answer correct="yes" audience="90%">Toe</answer>
+            <answer correct="no" audience="3%">Knee</answer>
+			<answer correct="no" audience="6%">Elbow</answer>
+            <answer correct="no" audience="1%">Brain</answer>
+        </question>
+		<question>
+            <text>Which country is largest by area?</text>
+			<answer correct="no" audience="1%">UK</answer>
+            <answer correct="no" audience="3%">USA</answer>
+			<answer correct="yes" audience="86%">Russia</answer>
+            <answer correct="no" audience="10%">China</answer>
+        </question>
+		<question>
+            <text>What does the \"F\" stand for in FBI?</text>
+			<answer correct="no" audience="3%">Foreign</answer>
+            <answer correct="yes" audience="95%">Federal</answer>
+			<answer correct="no" audience="1%">Flappy</answer>
+            <answer correct="no" audience="1%">Face</answer>
+        </question>
+		<question>
+            <text>The US declared war on which country after the bombing of Pearl Harbor?</text>
+			<answer correct="yes" audience="91%">Japan</answer>
+            <answer correct="no" audience="3%">Russia</answer>
+			<answer correct="no" audience="3%">Germany</answer>
+            <answer correct="no" audience="3%">China</answer>
+        </question>
+		<question>
+            <text>The ozone layer restricts</text>
+            <answer correct="no" audience="2%">Visible light</answer>
+			<answer correct="no" audience="5%">Infrared radiation</answer>
+            <answer correct="no" audience="3%">X-rays and gamma rays</answer>
+            <answer correct="yes" audience="90%">Ultraviolet radiation</answer>
+        </question>
+		<question>
+            <text>When did US astronauts Neil Armstrong and Edwin E. Aldrin land on the moon?</text>
+            <answer correct="yes" audience="92%">July 21, 1969</answer>
+			<answer correct="no" audience="5%">July 21, 1970</answer>
+            <answer correct="no" audience="1%">July 21, 1963</answer>
+            <answer correct="no" audience="2%">July 21, 1972</answer>
+        </question>
+		<question>
+            <text>When cream is separated from milk</text>
+            <answer correct="yes" audience="81%">the density of milk increases</answer>
+			<answer correct="no" audience="11%">the density of milk decreases</answer>
+            <answer correct="no" audience="1%">the density of milk remains unchanged</answer>
+            <answer correct="no" audience="7%">it becomes more viscous</answer>
+        </question>
+		<question>
+            <text>An albino gorilla usually has what color fur?</text>
+            <answer correct="no" audience="3%">Brown</answer>
+			<answer correct="no" audience="5%">Black</answer>
+            <answer correct="yes" audience="91%">White</answer>
+            <answer correct="no" audience="1%">Golden</answer>
+        </question>
+		<question>
+            <text>What is the national emblem of Canada?</text>
+            <answer correct="no" audience="92%">Maple Leaf</answer>
+			<answer correct="yes" audience="3%">Brown Bear</answer>
+            <answer correct="no" audience="4%">Maple Syrup</answer>
+            <answer correct="no" audience="1%">Waffle</answer>
+        </question>
+		<question>
+            <text>Ecology deals with</text>
+            <answer correct="no" audience="3%">Birds</answer>
+			<answer correct="no" audience="2%">Cell formation</answer>
+            <answer correct="yes" audience="94%">Relation between organisms and their environment</answer>
+            <answer correct="no" audience="1%">Tissues</answer>
+        </question>
+		<question>
+            <text>The escape velocity of a rocket fired from the earth towards the moon is the velocity required to overcome...</text>
+            <answer correct="yes" audience="85%">Earth's gravitational pull</answer>
+			<answer correct="no" audience="7%">Moon's gravitational pull</answer>
+            <answer correct="no" audience="2%">Centripetal force due to the earth's rotation</answer>
+            <answer correct="no" audience="6%">Pressure of the atmosphere</answer>
+        </question>
+		<question>
+            <text>Leonardo da Vinci</text>
+            <answer correct="no" audience="2%">was a great Italian painter, sculptor and architect</answer>
+			<answer correct="no" audience="4%">got universal fame form his masterpiece \"Mona lisa\"</answer>
+            <answer correct="no" audience="1%">drew models of organs such as the heart, lungs and womb</answer>
+            <answer correct="yes" audience="93%">All of the above</answer>
+        </question>
+		<question>
+            <text>The headquarters of UN are situated at</text>
+            <answer correct="yes" audience="88%">New York, USA</answer>
+			<answer correct="no" audience="7%">Haque (Netherlands)</answer>
+            <answer correct="no" audience="3%">Geneva</answer>
+            <answer correct="no" audience="2%">Paris</answer>
+        </question>
+		<question>
+            <text>Marco Polo...</text>
+            <answer correct="no" audience="11%">discovered Greenland</answer>
+			<answer correct="yes" audience="75%">travelled through China, India and other parts of Asia</answer>
+            <answer correct="no" audience="6%">travelled round the cape of Good Hope</answer>
+            <answer correct="no" audience="8%">discovered Canada</answer>
+        </question>
+		<question>
+            <text>Which of the following consumer goods is the Gerber Products Co. best known for?</text>
+            <answer correct="no" audience="4%">Potato chips</answer>
+			<answer correct="no" audience="21%">Fine wines</answer>
+            <answer correct="no" audience="3%">Chewing gum</answer>
+            <answer correct="yes" audience="72%">Baby Food</answer>
+        </question>
+		<question>
+            <text>In which of these household appliances would you find a lint screen?</text>
+            <answer correct="no" audience="2%">Dishwasher</answer>
+			<answer correct="no" audience="9%">Microwave oven</answer>
+            <answer correct="yes" audience="88%">Clothes dryer</answer>
+            <answer correct="no" audience="1%">Trash compactor</answer>
+        </question>
+		<question>
+            <text>What are the three primary colors?</text>
+            <answer correct="yes" audience="82%">Red, green, blue</answer>
+			<answer correct="no" audience="2%">Magenta, pink, cyan</answer>
+            <answer correct="no" audience="1%">Yellow, salmon, brown</answer>
+            <answer correct="no" audience="15%">White, grey, black</answer>
+        </question>
+		<question>
+            <text>In aviation, what does UFO stand for?</text>
+            <answer correct="no" audience="7%">Unified Flying Object</answer>
+			<answer correct="no" audience="2%">Unitary Flinging Obsession</answer>
+            <answer correct="no" audience="1%">United Flag Opposition</answer>
+            <answer correct="yes" audience="90%">Unidentified Flying Object</answer>
+        </question>
+		<question>
+            <text>Of the blood groups A, B, AB and O, which one is transfused into a person whose blood group is A?</text>
+            <answer correct="no" audience="5%">Group A only</answer>
+			<answer correct="no" audience="13%">Group B only</answer>
+            <answer correct="yes" audience="79%">Group A and O</answer>
+            <answer correct="no" audience="3%">Group AB only</answer>
+        </question>
+		<question>
+            <text>Karl Marx's ideology advocated...</text>
+			<answer correct="no" audience="5%">a classed unique society</answer>
+            <answer correct="no" audience="7%">a united society</answer>
+            <answer correct="yes" audience="77%">a classed society</answer>
+			<answer correct="no" audience="11%">None of the above</answer>
+        </question>
+		<question>
+            <text>The EPA urges people to produce less waste by engaging in efforts to reduce, reuse and what?</text>
+            <answer correct="yes" audience="95%">Recycle</answer>
+			<answer correct="no" audience="1%">Rewrap</answer>
+            <answer correct="no" audience="1%">Reprosess</answer>
+            <answer correct="no" audience="3%">Retire</answer>
+        </question>
+		<question>
+            <text>What is the second most common gas in the air?</text>
+            <answer correct="no" audience="12%">Nitrogen</answer>
+			<answer correct="yes" audience="72%">Oxygen</answer>
+            <answer correct="no" audience="2%">Water</answer>
+            <answer correct="no" audience="14%">Helium</answer>
+        </question>
+		<question>
+            <text>Which month has only 28 days (unless it's a leap year)?</text>
+            <answer correct="no" audience="1%">March</answer>
+			<answer correct="no" audience="0%">September</answer>
+            <answer correct="no" audience="1%">June</answer>
+            <answer correct="yes" audience="98%">February</answer>
+        </question>
+		<question>
+            <text>Pythagoras was first to ____ the universal validity of geometrical theorem.</text>
+            <answer correct="no" audience="12%">give</answer>
+			<answer correct="yes" audience="73%">prove</answer>
+            <answer correct="no" audience="8%">both</answer>
+            <answer correct="no" audience="7%">None of the above</answer>
+        </question>
+		<question>
+            <text>The American General who led the revolt against the British and declared American independence was...</text>
+            <answer correct="yes" audience="95%">George Washington</answer>
+			<answer correct="no" audience="2%">Bill Clinton</answer>
+            <answer correct="no" audience="3%">George Bush</answer>
+            <answer correct="no" audience="0%">None of the above</answer>
+        </question>
+		<question>
+            <text>Hamid Karzai was chosen president of Afghanistan in</text>
+            <answer correct="no" audience="4%">energy</answer>
+			<answer correct="no" audience="20%">speed</answer>
+			<answer correct="yes" audience="73%">distance</answer>
+            <answer correct="no" audience="3%">intensity</answer>
+        </question>
+    </easyQuestions>
+    <mediumQuestions>
+        <question>
+            <text>Which material is most dense?</text>
+            <answer correct="no" audience="26%">Silver</answer>
+			<answer correct="no" audience="17%">Styrofoam</answer>
+            <answer correct="no" audience="2%">Butter</answer>
+            <answer correct="yes" audience="55%">Gold</answer>
+        </question>
+		<question>
+            <text>Galileo was an Italian astronomer who</text>
+            <answer correct="no" audience="27%">developed the telescope</answer>
+			<answer correct="no" audience="12%">discovered four satellites of Jupiter</answer>
+            <answer correct="no" audience="2%">discovered that the movement of pendulum produces a regular time measurement</answer>
+			<answer correct="yes" audience="59%">All of the above</answer>
+            
+        </question>
+		<question>
+            <text>Exposure to sunlight helps a person improve his health because</text>
+            <answer correct="no" audience="14%">the infrared light kills bacteria in the body</answer>
+			<answer correct="no" audience="8%">resistance power increases</answer>
+            <answer correct="no" audience="2%">the pigment cells in the skin get stimulated and produce a healthy tan</answer>
+            <answer correct="yes" audience="76%">the ultraviolet rays convert skin oil into Vitamin D</answer>
+        </question>
+		<question>
+            <text>Oscar Awards were instituted in...</text>
+            <answer correct="no" audience="2%">1968</answer>
+			<answer correct="yes" audience="73%">1929</answer>
+            <answer correct="no" audience="1%">1901</answer>
+            <answer correct="no" audience="24%">1965</answer>
+        </question>
+		<question>
+            <text>When did Commander Robert Peary discover the North Pole?</text>
+            <answer correct="no" audience="2%">1904</answer>
+			<answer correct="no" audience="5%">1905</answer>
+			<answer correct="yes" audience="60%">1909</answer>
+            <answer correct="no" audience="33%">1908</answer>
+        </question>
+		<question>
+            <text>What was the first university in the United States</text>
+            <answer correct="yes" audience="72%">Harvard</answer>
+			<answer correct="no" audience="2%">University of Washington</answer>
+            <answer correct="no" audience="23%">Yale</answer>
+            <answer correct="no" audience="3%">Oxford</answer>
+        </question>
+		<question>
+            <text>An electron volt is</text>
+            <answer correct="yes" audience="56%">The amount of energy it takes to move an electron through a potential difference of 1 volt</answer>
+			<answer correct="no" audience="2%">The number of volts it takes to move an electon a meter</answer>
+            <answer correct="no" audience="24%">The number of electrons it takes to kill a human being</answer>
+            <answer correct="no" audience="18%">The flux of current through a surface parallel to a capacitor</answer>
+        </question>
+		<question>
+            <text>When is the World's Diabetes Day?</text>
+            <answer correct="no" audience="7%">14th November</answer>
+			<answer correct="no" audience="16%">11th December</answer>
+			<answer correct="yes" audience="68%">15th October</answer>
+            <answer correct="no" audience="9%">1st July</answer>
+        </question>
+		<question>
+            <text>What is the S.I. unit of temperature?</text>
+            <answer correct="no" audience="20%">Fahrenheit</answer>
+			<answer correct="yes" audience="57%">Kelvin</answer>
+			<answer correct="no" audience="20%">Celsius</answer>
+            <answer correct="no" audience="3%">Centigrade</answer>
+        </question>
+		<question>
+            <text>When you enter a situation without a definite plan of action, you are said to be \"playing it by\" what?</text>
+            <answer correct="no" audience="2%">Fingertips</answer>
+			<answer correct="yes" audience="75%">Ear</answer>
+            <answer correct="no" audience="19%">Nose</answer>
+            <answer correct="no" audience="4%">Mouth</answer>
+        </question>
+		<question>
+            <text>What is commonly known as the \"Emerald City\" in the United States?</text>
+            <answer correct="no" audience="11%">Palos Verdes, CA</answer>
+			<answer correct="yes" audience="62%">Seattle, WA</answer>
+            <answer correct="no" audience="4%">New York, NY</answer>
+            <answer correct="no" audience="23%">Dallas, TX</answer>
+        </question>
+		<question>
+            <text>Hamid Karzai was chosen president of Afghanistan in</text>
+            <answer correct="no" audience="14%">2000</answer>
+			<answer correct="no" audience="17%">2001</answer>
+			<answer correct="yes" audience="64%">2002</answer>
+            <answer correct="no" audience="5%">2003</answer>
+        </question>
+		<question>
+            <text>When and where was hockey introduced for women in Olympics?</text>
+            <answer correct="yes" audience="61%">1980 at Moscow</answer>
+			<answer correct="no" audience="24%">1908 at London</answer>
+            <answer correct="no" audience="4%">1936 at Berlin</answer>
+            <answer correct="no" audience="11%">1924 at Paris</answer>
+        </question>
+		<question>
+            <text>Lime is sometimes applied to soil in order to</text>
+            <answer correct="yes" audience="61%">increase the alkalinity of the soil</answer>
+			<answer correct="no" audience="24%">increase the acidity of the soil</answer>
+            <answer correct="no" audience="4%">restore nitrates to the soil</answer>
+            <answer correct="no" audience="11%">make the soil more porous</answer>
+        </question>
+		<question>
+            <text>For safety, the fuse wire used in the mains for household supply of electricity must be made of metal having...</text>
+            <answer correct="yes" audience="67%">low melting point</answer>
+			<answer correct="no" audience="4%">high resistance</answer>
+            <answer correct="no" audience="20%">high melting point</answer>
+            <answer correct="no" audience="9%">low specific heat</answer>
+        </question>
+		<question>
+            <text>When a given amount of air is cooled...</text>
+            <answer correct="yes" audience="60%">the amount of moisture it can hold decreases</answer>
+			<answer correct="no" audience="29%">its absolute humidity decreases</answer>
+            <answer correct="no" audience="8%">its relative humidity remains constant</answer>
+            <answer correct="no" audience="3%">its absolute humidity increases</answer>
+        </question>
+		<question>
+            <text>When did France became Republic?</text>
+            <answer correct="no" audience="5%">1789 AD</answer>
+			<answer correct="yes" audience="32%">1798 AD</answer>
+            <answer correct="no" audience="62%">1792 AD</answer>
+            <answer correct="no" audience="1%">1729 AD</answer>
+        </question>
+		<question>
+            <text>When and where was weightlifting introduced in Olympics?</text>
+            <answer correct="yes" audience="71%">1986 at Athens</answer>
+			<answer correct="no" audience="2%">1988 at Seoul</answer>
+            <answer correct="no" audience="4%">1924 at St. Louis</answer>
+            <answer correct="no" audience="23%">1908 at London</answer>
+        </question>
+		<question>
+            <text>Garampani sanctuary is located at...</text>
+            <answer correct="no" audience="12%">Junagarh, Gujarat</answer>
+			<answer correct="yes" audience="61%">Diphu, Assam</answer>
+            <answer correct="no" audience="13%">Kohima, Nagaland</answer>
+            <answer correct="no" audience="14%">Gangtok, Sikkim</answer>
+        </question>
+		<question>
+            <text>The Habeas Corpus Act of 1679</text>
+            <answer correct="no" audience="6%">states that no one was to be imprisoned without a writ or warrant stating the charge against him</answer>
+			<answer correct="no" audience="9%">provided facilities to a prisoner to obtain either speedy trial or release in bail</answer>
+            <answer correct="no" audience="27%">safeguarded the personal liberties of the people against arbitrary imprisonment by the king's orders</answer>
+            <answer correct="yes" audience="58%">All of the above</answer>
+        </question>
+		<question>
+            <text>When did Yuri Alekseyevich Gagaris of Russia, the first man to reach space, reach space?</text>
+            <answer correct="no" audience="2%">1960</answer>
+			<answer correct="yes" audience="63%">1961</answer>
+            <answer correct="no" audience="34%">1962</answer>
+            <answer correct="no" audience="1%">1963</answer>
+        </question>
+		<question>
+            <text>What are the dimensions of A4 paper?</text>
+            <answer correct="yes" audience="51%">8.3\" x 11.7\"</answer>
+			<answer correct="no" audience="23%">8.5\" x 11\"</answer>
+            <answer correct="no" audience="9%">30cm x 50cm</answer>
+            <answer correct="no" audience="21%">8.5\" x 14\"</answer>
+        </question>
+		<question>
+            <text>A liquid asset is...</text>
+			<answer correct="no" audience="8%">a type of asset that is in cash in the current account of the commercial bank</answer>
+            <answer correct="no" audience="11%">a type of asset that is in the form of a deposit in the current account of the commercial bank</answer>
+            <answer correct="yes" audience="77%">either of these</answer>
+			<answer correct="no" audience="4%">None of the above</answer>
+        </question>
+		<question>
+            <text>Lhasa airport at Tibet is the World's...</text>
+            <answer correct="no" audience="17%">largest airport</answer>
+			<answer correct="yes" audience="69%">highest airport</answer>
+            <answer correct="no" audience="8%">lowest airport</answer>
+            <answer correct="no" audience="6%">1busiest airport</answer>
+        </question>
+		<question>
+            <text>Which of these African countries is situated south of the equator?</text>
+			<answer correct="no" audience="34%">Ethiopia</answer>
+            <answer correct="no" audience="7%">Nigeria</answer>
+            <answer correct="yes" audience="53%">Zambia</answer>
+			<answer correct="no" audience="6%">Chad</answer>
+        </question>
+    </mediumQuestions>
+    <hardQuestions>
+        <question>
+            <text>Sir Thomas Fearnley Cup is awarded to...</text>
+            <answer correct="yes" audience="50%">a club or a local sport association for remarkable achievements</answer>
+			<answer correct="no" audience="4%">amateur athlete, not necessarily an Olympian</answer>
+            <answer correct="no" audience="40%">National Olympic Committee for outstanding work</answer>
+            <answer correct="no" audience="6%">None of the above</answer>
+        </question>
+		<question>
+            <text>When did China test their first atomic device?</text>
+            <answer correct="no" audience="27%">1962</answer>
+			<answer correct="no" audience="8%">1963</answer>
+            <answer correct="no" audience="26%">1964</answer>
+            <answer correct="yes" audience="38%">1965</answer>
+        </question>
+		<question>
+            <text>What is the population density of Kerala?</text>
+			<answer correct="no" audience="14%">602/sq. km</answer>
+            <answer correct="no" audience="21%">415/sq. km</answer>
+			<answer correct="yes" audience="35%">819/sq. km</answer>
+            <answer correct="no" audience="30%">500/sq. km</answer>
+        </question>
+		<question>
+            <text>What is the range of missile 'Akash'?</text>
+			<answer correct="no" audience="39%">4 km</answer>
+            <answer correct="yes" audience="44%">25 km</answer>
+			<answer correct="no" audience="6">500 m to 9 km</answer>
+            <answer correct="no" audience="11%">150 km</answer>
+        </question>
+		<question>
+            <text>A guarantee to an exporter that the importer of his goods will pay immediately for the goods ordered by him, is known as...</text>
+			<answer correct="no" audience="30%">inflation</answer>
+            <answer correct="no" audience="4%">laissezfaire</answer>
+            <answer correct="yes" audience="52%">Letter of Credit (L/C)</answer>
+			<answer correct="no" audience="14%">None of the above</answer>
+        </question>
+		<question>
+            <text>Fa-Hien was...</text>
+            <answer correct="yes" audience="49%">the first Buddhist pilgrim of China to visit India during the reign of Chandragupta Vikramaditya</answer>
+			<answer correct="no" audience="9%">the discoverer of Puerto Rico and Jamaica</answer>
+            <answer correct="no" audience="27%">the first Buddhist pilgrim of India to visit China</answer>
+            <answer correct="no" audience="15%">None of the above</answer>
+        </question>
+		<question>
+            <text>When did 19 NATO members and 11 'Partners for Peace' join hands for peace plan for Kosovo Crisis?</text>
+            <answer correct="yes" audience="50%">1999</answer>
+			<answer correct="no" audience="4%">1989</answer>
+            <answer correct="no" audience="40%">1979</answer>
+            <answer correct="no" audience="6%">1969</answer>
+        </question>
+		<question>
+            <text>What is the name of the largest freshwater lake in the world?</text>
+            <answer correct="yes" audience="59%">Lake Union</answer>
+			<answer correct="no" audience="14%">Lake Superior</answer>
+            <answer correct="no" audience="5%">Lake Largest</answer>
+            <answer correct="no" audience="22%">Lake Goodwin</answer>
+        </question>
+		<question>
+            <text>When a moving bus stops suddenly, the passenger are pushed forward because of the</text>
+			<answer correct="no" audience="31%">friction between the earth and the bus</answer>
+            <answer correct="no" audience="23%">friction between the passengers and the earth</answer>
+            <answer correct="yes" audience="39%">inertia of the passengers</answer>
+			<answer correct="no" audience="7%">inertia of the bus</answer>
+        </question>
+		<question>
+            <text>Lal Bahadur Shastri is also known as</text>
+            <answer correct="no" audience="10%">Guruji</answer>
+			<answer correct="yes" audience="46%">Man of Peace</answer>
+            <answer correct="no" audience="13%">Punjab Kesari</answer>
+            <answer correct="no" audience="31%">Mahamana</answer>
+		</question>
+		<question>
+            <text>Recession is...</text>
+            <answer correct="no" audience="27%">slowing down of economic activity over a limited period</answer>
+			<answer correct="no" audience="8%">period during which unemployment may rise and demand and output may fall, leading to slump in trade</answer>
+            <answer correct="no" audience="26%">period that results from accumulation of unsold goods, owing to fall in demand</answer>
+            <answer correct="yes" audience="38%">All of the above</answer>
+        </question>
+		<question>
+            <text>Guwahati High Court is the judicature of...</text>
+			<answer correct="no" audience="9%">Nagaland</answer>
+            <answer correct="no" audience="32%">Arunachal Prades</answer>
+            <answer correct="no" audience="20%">Assam</answer>
+			<answer correct="yes" audience="39%">All of the above</answer>
+        </question>
+		<question>
+            <text>Heavy Water Project (Talcher) and Fertilizer plant (Paradeep) are famous industries of...</text>
+            <answer correct="yes" audience="38%">Orissa</answer>
+			<answer correct="no" audience="16%">Tamil nadu</answer>
+            <answer correct="no" audience="32%">Andhra Pradesh</answer>
+            <answer correct="no" audience="14%">Kerala</answer>
+        </question>
+		<question>
+            <text>Numismatics is the study of...</text>
+            <answer correct="yes" audience="42%">coins</answer>
+			<answer correct="no" audience="30%">numbers</answer>
+            <answer correct="no" audience="25%">stamps</answer>
+            <answer correct="no" audience="3%">space</answer>
+        </question>
+		<question>
+            <text>Mahabaleshwar is located in...</text>
+            <answer correct="no" audience="22%">Rajasthan</answer>
+			<answer correct="yes" audience="51%">Maharashtra</answer>
+            <answer correct="no" audience="21%">Madhya Pradesh</answer>
+            <answer correct="no" audience="6%">Himachal Pradesh</answer>
+        </question>
+		<question>
+            <text>What kind of animal traditionally lives in a sty?</text>
+            <answer correct="no" audience="3%">Cow</answer>
+			<answer correct="yes" audience="51%">Pig</answer>
+            <answer correct="no" audience="2%">Fox</answer>
+            <answer correct="no" audience="44%">Teenager</answer>
+        </question>
+    </hardQuestions>
+</questionsDatabase>
