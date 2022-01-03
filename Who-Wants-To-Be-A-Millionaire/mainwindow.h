@@ -1,0 +1,60 @@
+#ifndef MAINWINDOW_H
+#define MAINWINDOW_H
+
+#include <QMainWindow>
+#include <QtXml>
+#include <QFile>
+#include "question.h"
+
+QT_BEGIN_NAMESPACE
+namespace Ui { class MainWindow; }
+QT_END_NAMESPACE
+
+class MainWindow : public QMainWindow
+{
+    Q_OBJECT
+
+public:
+    MainWindow(QWidget *parent = nullptr);
+    ~MainWindow();
+
+private slots:
+    void on_pushButtonStartGame_clicked();
+
+    void on_pushButtonA_clicked();
+    void on_pushButtonB_clicked();
+    void on_pushButtonC_clicked();
+    void on_pushButtonD_clicked();
+    void on_pushButtonNextQuestion_clicked();
+
+    void on_pushButton5050_clicked();
+
+    void on_pushButtonCallAFriend_clicked();
+
+    void on_pushButtonAskTheAudience_clicked();
+
+private:
+    Ui::MainWindow *ui;
+    QVector<Question> easyQuestions;
+    QVector<Question> mediumQuestions;
+    QVector<Question> hardQuestions;
+    QVector<bool> usedEasy, usedMedium, usedHard;
+
+    void parseXMLDocument();
+    void loadQuestion();
+    void colorRightWhenWrongAnswer();
+    void putBordersOnSums();
+    void clearBordersOnSums();
+    void setABCDVisible();
+    void setABCDHidePolicy();
+    QString setCorrectAnswer(Question currQuestion);
+
+    int numQuestionAsked;
+    int indexCurrentQuestion;
+    bool inEasyQuestions, inMediumQuestions, inHardQuestions;
+    bool halfUsed, callUsed, audienceUsed;
+    QString styleCorrect, styleIncorrect, styleClearButtons, styleSumsNormal, styleSumsSure, styleSumsClearNormal, styleSumsClearSure, styleHintUsed;
+
+
+};
+#endif // MAINWINDOW_H
